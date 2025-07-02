@@ -1,0 +1,18 @@
+# Игнорируем контейнерные файлы
+Dockerfile*
+docker-compose.yml
+
+.pytest_cache/
+
+# Игнорируем IDE и редакторы
+.idea/
+.vscode/
+
+# Игнорируем виртуальные окружения
+venv/
+
+# Игнорируем артефакты Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

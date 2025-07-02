@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtualenv
+venv/
+ENV/
+.env
+
+# Docker
+*.log
+db_data/
+
+# VSCode/IDE
+.vscode/
+.idea/
+*.swp
+
+# Test cache
+.pytest_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+Thumbs.db
+
+# Coverage
+htmlcov/
+.coverage
+
+# Misc
+*.bak
+*.tmp
