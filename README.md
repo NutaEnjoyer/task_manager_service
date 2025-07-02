@@ -43,8 +43,8 @@ requirements.txt
 ### 1. Клонируйте репозиторий
 
 ```sh
-git clone <ваш-репозиторий>
-cd <папка-проекта>
+git clone https://github.com/NutaEnjoyer/task_manager_service.git
+cd task_manager_service
 ```
 
 ### 2. Заполните `.env` по аналогии с `.env.template`
